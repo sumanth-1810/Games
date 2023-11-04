@@ -1,2 +1,2 @@
 # Games
-Design and Implementation if games using Python
+Design and Implementation of games using Python
